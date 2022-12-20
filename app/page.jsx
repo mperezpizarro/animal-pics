@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className="text-3xl font-bold">ANIMALS PICS</h1>
       <h2 className="text-xl font-semibold">Descubre fotos adorables de perritos, patitos y gatitos</h2>
 
-      <section className="mt-6 w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 place-items-center">
+      <section className="mt-6 w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-2">
         <LinkCard href="/dogs">
           Ver fotos de perros
         </LinkCard>
