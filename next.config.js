@@ -10,6 +10,11 @@ const nextConfig = {
         hostname: 'cdn.shibe.online',
         port: '',
         pathname: '/shibes/**',
+      }, {
+        protocol: 'https',
+        hostname: 'random-d.uk',
+        port: '',
+        pathname: '/api/**'
       }
     ]
   }
