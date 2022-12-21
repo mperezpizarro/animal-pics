@@ -3,7 +3,7 @@ export default function Head() {
     <>
       <title>Animal Pics</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Descubre fotos adorables de perritos, patitos y gatitos." />
+      <meta name="description" content="Descubre fotos adorables de shibas, patos y zorros." />
       <link rel="icon" href="/favicon.ico" />
     </>
   )
